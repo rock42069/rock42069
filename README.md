@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trijal Srivastava, and I'm an ML enthusiast, from New Delhi, India</h2>
+<h2 align="left">Hi 👋! My name is Trijal Srivastava</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh4bTI3cndraWJ5dGxodWFlamtqOHk0ZzQ0MW9vdjB0bWdpMHk3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif"  />
+<p align="left"></p>
 
 ###
 
@@ -68,17 +68,10 @@
 
 ###
 
-<!--
-**rock42069/rock42069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh4bTI3cndraWJ5dGxodWFlamtqOHk0ZzQ0MW9vdjB0bWdpMHk3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif"  />
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">- B.Tech Electrical Engineering, IIT Kanpur<br><br>- Passionate about ML, NLP and Systems<br><br>- Represented IITK Consulting Group at the Global India AI Summit<br><br>- Reach out to me: trijals22@iitk.ac.in</p>
+
+###
