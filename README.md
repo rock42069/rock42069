@@ -72,6 +72,6 @@
 
 ###
 
-<p align="left">- B.Tech Electrical Engineering, IIT Kanpur<br><br>- Passionate about ML, NLP and Systems<br><br>- Represented IITK Consulting Group at the Global India AI Summit<br><br>- Reach out to me: trijals22@iitk.ac.in</p>
+<p align="left">- B.Tech Electrical Engineering, IIT Kanpur<br><br>- Ex-SDE intern at Salesforce <br><br>- Interested in NLP, Development, MLOps and Systems <br><br>- Reach out to me: trijals22@iitk.ac.in</p>
 
 ###
