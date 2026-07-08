@@ -72,6 +72,6 @@
 
 ###
 
-<p align="left">- B.Tech Electrical Engineering, IIT Kanpur<br><br>- Ex-SDE intern at Salesforce <br><br>- Interested in NLP, Development, MLOps and Systems <br><br>- Reach out to me: trijals22@iitk.ac.in</p>
+<p align="left">- B.Tech EE'26, IIT Kanpur<br><br>- SWE at Agrani Labs <br><br>- Ex-SDE intern at Salesforce <br><br>- Reach out to me: trijalsrivastava30@gmail.com</p>
 
 ###
